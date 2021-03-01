@@ -1,0 +1,5 @@
+conda install xlrd
+conda install xlwt
+conda install numpy
+conda install camelot-py[cv]
+conda install tabula-py
